@@ -3,7 +3,7 @@
 /*
 Problem 3.25: What is the output of the program below? 
 
-
+z = x times y.
 */
 int main()
 {
