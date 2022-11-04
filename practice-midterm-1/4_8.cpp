@@ -1,4 +1,7 @@
 /*
+total midterm grade: 64
+
+correct
 Problem #8: Please write a do-while loop to find the first lower case character in a given string.
 If there is no lower case letter, the program outputs "No lowercase character".
 If there is a lower case character, output the first lower case character.
